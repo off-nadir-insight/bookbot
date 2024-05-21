@@ -1,2 +1,2 @@
 # bookbot
-BootDotDev Lesson
+BookBot is my first project!
